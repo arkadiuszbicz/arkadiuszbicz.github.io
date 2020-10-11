@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Blog bazuje na wiedzy z doskonałego zródła jakim jest fast.ai
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "szybkainteligencja.pl" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Arkadiusz Bicz
+twitter_username: abicz1
 github_username:  arkadiuszbicz
 
 # Build settings
