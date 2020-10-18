@@ -22,7 +22,7 @@ from fastai.vision.widgets import *
 
 Pobieramy obrazki z dysku 
 ~~~ python
-path = "miejsce_na_dysku_gdzie_mam_dwa_katalogi_z_obrazkami"
+path = Path('masks') # miejsce_na_dysku_gdzie_mam_dwa_katalogi_z_obrazkami
 fns = get_image_files(path)
 ~~~
 
