@@ -11,7 +11,7 @@ W projekcie dam sztucznej inteligencji zdjęcia ludzi w maseczkach i bez, nauczy
 
 Do katalogu "human_face" skopiowałem zdjęcia twarzy niczym nie zakrytej z internetu, a do katalogu "face_mask" twarze zakryte maską.
 
-Do nauczenia sztucznego muzgu użyje biblioteki (coś w rodzaju roszeżenia dającego nowe możliwości ) <https://fast.ai>, w pierszym kroku pobiore i zainstaluje biblioteke i podłacze ją do mogego programu:
+Do nauczenia sztucznego mózgu użyje biblioteki (coś w rodzaju rozszerzenia dającego nowe możliwości ) <https://fast.ai>, w pierwszym kroku pobiorę i zainstaluje bibliotekę i podłączę ją do mojego programu:
 ~~~ python
 !pip install -Uqq fastbook
 import fastbook
