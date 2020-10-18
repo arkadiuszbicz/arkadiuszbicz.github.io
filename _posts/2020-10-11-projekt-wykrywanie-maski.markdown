@@ -9,5 +9,15 @@ który bardziej przypomina w jaki uczą się ludzie czyli poprzez pokazanie przy
 
 W projekcie dam sztucznej inteligencji zdjęcia ludzi w maseczkach i bez, nauczy się rozpoznawać maseczki ze zdjęć.
 
+Do katalogu "human_face" skopiowałem zdjęcia twarzy niczym nie zakrytej z internetu, a do katalogu "face_mask" twarze zakryte maską.
 
-Do katalogu "human_face" skopiowałem zdjęcia  z internetu  "face mask"
+Do nauczenia sztucznego muzgu użyje biblioteki (coś w rodzaju roszeżenia dającego nowe możliwości ) <https://fast.ai>, w pierszym kroku pobiore i zainstaluje biblioteke i podłacze ją do mogego programu:
+~~~ python
+!pip install -Uqq fastbook
+import fastbook
+fastbook.setup_book()
+from fastbook import *
+from fastai.vision.widgets import *
+~~~
+
+
